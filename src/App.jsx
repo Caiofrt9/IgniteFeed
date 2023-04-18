@@ -54,9 +54,6 @@ export function App() {
               author={post.author}
               content={post.content}
               publishedAt={post.publishedAt}
-          
-
-
             />
           )
          })}
